@@ -4,7 +4,7 @@
 
 **Agrosarthi** is a comprehensive agricultural assistance platform that leverages AI and machine learning to provide farmers with intelligent crop recommendations, disease detection, weather forecasting, and agricultural guidance. The backend is built with FastAPI and deployed on Google Cloud Run.
 
-🌐 **Live API Documentation**: [https://agrosarthi-backend-885337506715.asia-south1.run.app/docs](https://agrosarthi-backend-885337506715.asia-south1.run.app/docs)
+
 
 ## 🚀 Features
 
